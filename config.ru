@@ -9,4 +9,5 @@ use RackMiddlewareBold
 use RackMiddlewareElapsed
 use RackMiddlewareExcited
 
+puts "\n Starting up Sinatra App!!!\n"
 run Sinatra::Application
